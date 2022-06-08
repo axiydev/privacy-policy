@@ -2,19 +2,19 @@ Ilovamiz ishlash tartib qoidasi:
 1.Biz to’plagan ma’lumotlar 
 2.Ma’lumotlaringizni qanday ishlatamiz
 3.Qanday informatsiya ulashamiz
-4.Sizning tanlovlaringiz va masulyatingiz
+4.Sizning tanlovlaringiz va mas'plpulyatingiz
 5.Boshqa kerakli ma’lumotlar
 
 Tanishtiruv
 
-Biz ijtimoiy tarmoqmiz va xalq uchun onlayn platforma hisoblanamiz. Odamlar bizni platformada ish va ishchi topish imkoniyatiga ega. Bir birlari bilan bog’lanib kelishuvga kelishlarida o’rtasida ularni ulab beruvchi 3-tamoil ro’lini bajaramiz.
+Biz ijtimoiy tarmoqmiz va xalq uchun onlayn platforma hisoblanamiz. Odamlar bizni platformada ish va ishchi topish imkoniyatiga ega. Bir birlari bilan bog’lanib kelishuvga kelishlarida ularni ulab beruvchi 3-tamoil ro’lini bajaramiz.
 Bizning qoidalar barcha platforma a’zolari va platformaga kirgan shaxslarga amal qiladi.
 
 Bizda registratsiyadan o’tgan a’zolar o’zlarining professiyasini ulashishadi, boshqa profesiyadagilar va o’zining yo’nalishidagilar bilan bog’lanishadi, ma’lumot va mahorat almashishadi. O’ziga yangi imkoniyatlarni kashf qiladi.
 
-Quyidagi qonun qoidalar barcha Simyog’och brendli programma va veb dastur a’zolari va kiruvchilariga tegishli hisoblanadi.
+Quyidagi qonun qoidalar barcha Simyog’och brendli programma va veb dastur a’zolari va bu platformaga kiruvchilarga tegishli hisoblanadi.
 
-Simyog’och platformasidan foydalanyotgan barcha a’zo va tashrif qiluvchilar ma’lumotlari Simtog’och NJ LTD tomonidan nazorat qilinadi, to’planadi va foydalaniladi. 
+Simyog’och platformasidan foydalanyotgan barcha a’zo va tashrif buyuruvchilar ma’lumotlari Simtog’och NJ LTD tomonidan nazorat qilinadi, to’planadi va foydalaniladi. 
 Simyog’och a’zosi yoki tashrif buyuruvchisi ma’lumotlari to’planishi, ishlatilishi va ulashilishi quyidagi keltirilgan qonun va qoidalarga asosan amalga oshiriladi. Bu qonun va qoidalar keyingi Simyog’ochning yangi versiyalariga ham amal qiladi.
 
 O’zgarishlar
@@ -37,13 +37,13 @@ Agar siz premium xizmatlarimizdan foydalansangiz, bank karta ma’lumotlaringizn
 
 Profil
 
-Profilingizdagi maʼlumotingiz, ish tajribangiz, koʻnikmalaringiz, suratingiz, shaharingiz yoki hududingiz , tasdiqlovlar va boshqalar kabi maʼlumotlarga oid tanlovlaringiz bor. Ulardan ba'zilarini to'ldirishingiz kerak. Profilingizda qo'shimcha ma'lumot berishingiz shart emas; ammo, profil ma'lumotlari sizga Xizmatlarimizdan ko'proq narsani olishingizga yordam beradi, jumladan yollovchilarga va biznes imkoniyatlari sizni topishga yordam beradi. Maxfiy maʼlumotlarni profilingizga qoʻshish yoki uni hammaga ochiq qilish sizning tanlovingiz. Iltimos, hammaga ochiq boʻlishini istamaydigan shaxsiy maʼlumotlarni profilingizga joylashtirmang yoki qoʻshmang.
+Profilingizdagi maʼlumotingiz, ish tajribangiz, koʻnikmalaringiz, shahsiy rasmingiz, shaharingiz yoki hududingiz , tasdiqlovlar va boshqalar kabi maʼlumotlarga oid tanlovlaringiz bor. Ulardan ba'zilarini to'ldirishingiz kerak. Profilingizda qo'shimcha ma'lumot berishingiz shart emas; ammo, profil ma'lumotlari sizga xizmatlarimizdan ko'proq narsani olishingizga yordam beradi, jumladan yo'llovchilarga va biznes imkoniyatlari sizni topishga yordam beradi. Maxfiy maʼlumotlarni profilingizga qoʻshish yoki uni hammaga ochiq qilish sizning tanlovingiz. Iltimos, hammaga ochiq boʻlishini istamaydigan shaxsiy maʼlumotlarni profilingizga joylashtirmang yoki qoʻshmang.
 
 E'lon qilish va yuklash
 
 Biz sizdan shaxsiy maʼlumotlarni xizmatlarimizga taqdim qilganingizda, joylaganingizda yoki yuklaganingizda, masalan, ariza toʻldirganingizda (masalan, demografik maʼlumotlar yoki maosh), soʻrovnomaga javob berganingizda yoki rezyumeni yuborganingizda yoki toʻldirganingizda toʻplaymiz. Agar siz manzillar kitobingizni import qilishni tanlasangiz, biz sizning kontaktlaringizni (jumladan, roʻyxatingizda boʻlmagan manzillar yoki raqamlar bilan bogʻlanganingizda, xizmat koʻrsatuvchi provayder(lar)ingiz yoki ilovangiz manzillar kitobingizga avtomatik qoʻshilgan aloqa maʼlumotlarini) olamiz.
-Agar siz kontaktlaringiz yoki taqvimlaringizni Xizmatlarimiz bilan sinxronlashtirsangiz, biz sizga va boshqalarga ulanishlarni taklif qilish hamda voqealar haqida maʼlumot taqdim etish orqali tarmogʻingizni rivojlantirishda davom etish uchun manzillar kitobi va taqvim uchrashuvlari maʼlumotlarini yigʻamiz, masalan. vaqtlar, joylar, ishtirokchilar va kontaktlar.
-Shaxsiy ma'lumotlarni joylashtirishingiz yoki yuklashingiz shart emas; Agar buni qilmasangiz, u bizning Xizmatlarimiz orqali o'sish va tarmog'ingiz bilan bog'lanish qobiliyatingizni cheklashi mumkin.
+Agar siz kontaktlaringiz yoki taqvimlaringizni xizmatlarimiz bilan sinxronlashtirsangiz, biz sizga va boshqalarga ulanishlarni taklif qilish hamda voqealar haqida maʼlumot taqdim etish orqali tarmogʻingizni rivojlantirishda davom etish uchun manzillar kitobi va taqvim uchrashuvlari maʼlumotlarini yigʻamiz, masalan. vaqtlar, joylar, ishtirokchilar va kontaktlar.
+Shaxsiy ma'lumotlarni joylashtirishingiz yoki yuklashingiz shart emas; Agar buni qilmasangiz, u bizning xizmatlarimiz orqali o'sish va tarmog'ingiz bilan bog'lanish qobiliyatingizni cheklashi mumkin.
 
 1.2 Boshqalardan olingan ma'lumotlar
 
@@ -52,11 +52,11 @@ Boshqalar siz haqingizda shikoyat yozishi yoki izoh yozishi mumkin.
 
 Kontent va Yangiliklar
 
-Siz va boshqalar siz haqingizdagi maʼlumotlarni (maqolalar, postlar, sharhlar, videolarning bir qismi sifatida) oʻz ichiga olgan kontentni Xizmatlarimizda joylashtirishingiz mumkin. Shuningdek, biz siz haqingizda kasbiy yangiliklar va yutuqlar kabi ommaviy axborotni to‘plashimiz va ularni Xizmatlarimizning bir qismi sifatida, jumladan, sozlamalaringiz ruxsat berganidek, yangiliklarda eslatib o‘tilganlar haqida bildirishnomalarda foydalanishga ruxsat berishimiz mumkin.
+Siz va boshqalar siz haqingizdagi maʼlumotlarni (maqolalar, postlar, sharhlar, videolarning bir qismi sifatida) oʻz ichiga olgan kontentni xizmatlarimizda joylashtirishingiz mumkin. Shuningdek, biz siz haqingizda kasbiy yangiliklar va yutuqlar kabi ommaviy axborotni to‘plashimiz va ularni xizmatlarimizning bir qismi sifatida, jumladan, sozlamalaringiz ruxsat berganidek, yangiliklarda eslatib o‘tilganlar haqida bildirishnomalarda foydalanishga ruxsat berishimiz mumkin.
 
-Boshqalar o'z kontaktlari yoki taqvimlarini Xizmatlarimiz bilan sinxronlashtirishi mumkin
+Boshqalar o'z kontaktlari yoki taqvimlarini xizmatlarimiz bilan sinxronlashtirishi mumkin
 (Telfon raqamlar va kalendar ma'lumotlari)
-Boshqalar o'z kontaktlari yoki kalendarlarini Xizmatlarimiz bilan import qilganda yoki sinxronlashtirganda, o'z kontaktlarini a'zo profillari bilan bog'laganda, tashrif qog'ozlarini skanerlaganda va yuklaganida yoki Xizmatlarimizdan foydalangan holda xabarlar yuborganida (shu jumladan, aloqa ma'lumotlari) biz siz haqingizdagi shaxsiy ma'lumotlarni olamiz (shu jumladan takliflar yoki ulanish so'rovlari). . Agar siz yoki boshqalar elektron pochta qayd yozuvlarini Xizmatlarimiz bilan sinxronlashtirishni tanlasangiz, biz aʼzo profillari bilan bogʻlashimiz mumkin boʻlgan “elektron pochta sarlavhasi” maʼlumotlarini ham yigʻamiz.
+Boshqalar o'z kontaktlari yoki kalendarlarini xizmatlarimiz bilan import qilganda yoki sinxronlashtirganda, o'z kontaktlarini a'zo profillari bilan bog'laganda, tashrif qog'ozlarini skanerlaganda va yuklaganida yoki xizmatlarimizdan foydalangan holda xabarlar yuborganida (shu jumladan, aloqa ma'lumotlari) biz siz haqingizdagi shaxsiy ma'lumotlarni olamiz (shu jumladan takliflar yoki ulanish so'rovlari). . Agar siz yoki boshqalar elektron pochta qayd yozuvlarini xizmatlarimiz bilan sinxronlashtirishni tanlasangiz, biz aʼzo profillari bilan bogʻlashimiz mumkin boʻlgan “elektron pochta sarlavhasi” maʼlumotlarini ham yigʻamiz.
 
 Mijozlar va hamkorlar bizga ma'lumotlarni taqdim etishlari mumkin.
 
@@ -69,31 +69,31 @@ Ish beruvchilar yoki potentsial ish beruvchilar kabi mijozlar va hamkorlarimiz x
 
 Biz sizning tashriflaringiz va xizmatlarimizdan, jumladan, mobil ilovalardan foydalanishni qayd etamiz.
 
-Xizmatlarimizga tashrif buyurganingizda yoki boshqa yo‘l bilan foydalanayotganingizda, jumladan, saytlarimiz, ilova va platforma texnologiyalari, jumladan, kontentni (masalan, o‘quv videosi) yoki reklamalarni (saytlarimiz va ilovalarimiz ichida yoki tashqarisida) ko‘rganingizda yoki ustiga bosganingizda, foydalanish ma’lumotlarini qayd qilamiz. mobil ilovalarimizdan birini qidiring, o‘rnating yoki yangilang, maqolalarni baham ko‘ring yoki ishga murojaat qiling. Biz sizning shaxsingizni aniqlash va foydalanishingizni qayd qilish uchun tizimga kirishlar, cookie-fayllar, qurilma maʼlumotlari va internet protokoli (“IP”) manzillaridan foydalanamiz.
+Xizmatlarimizga tashrif buyurganingizda yoki boshqa yo‘l bilan foydalanayotganingizda, jumladan, saytlarimiz, ilova va platforma texnologiyalari, jumladan, kontentni (masalan, o‘quv videosi) yoki reklamalarni (saytlarimiz va ilovalarimiz ichida yoki tashqarisida) ko‘rganingizda yoki ustiga bosganingizda, foydalanish ma’lumotlarini qayd qilamiz. Mobil ilovalarimizdan birini qidiring, o‘rnating yoki yangilang, maqolalarni baham ko‘ring yoki ishga murojaat qiling. Biz sizning shaxsingizni aniqlash va foydalanishingizni qayd qilish uchun tizimga kirishlar, cookie-fayllar, qurilma maʼlumotlari va internet protokoli (“IP”) manzillaridan foydalanamiz.
 
 1.4 Cookie-fayllar va shunga o'xshash texnologiyalar
 
 
 Biz ma'lumotlarni cookie fayllari va shunga o'xshash texnologiyalar orqali yig'amiz.
-Cookie-fayllar siyosatida batafsil tavsiflanganidek, biz sizni va qurilmangizni yoqish, oʻchirish va turli xizmatlar va qurilmalarda tanib olish uchun maʼlumotlarni (masalan, qurilma identifikatorlari) toʻplash uchun cookie-fayllar va shunga oʻxshash texnologiyalardan (masalan, piksellar va reklama teglari) foydalanamiz. siz bizning xizmatlarimiz bilan shug'ullangansiz. Shuningdek, biz cookie-fayllar siyosatida tavsiflanganidek, ba'zi boshqalarga cookie-fayllardan foydalanishga ruxsat beramiz. Agar siz belgilangan davlatlardan tashqarida bo'lsangiz, biz taqdim etishimiz uchun siz Xizmatlarimizdan foydalanmagan qurilmangiz haqidagi ma'lumotlarni (masalan, reklama identifikatori, IP manzili, operatsion tizim va brauzer ma'lumotlari) to'playmiz (yoki to'playdigan boshqalarga ishonamiz). tegishli reklamalar bilan bizning a'zolarimiz va ularning samaradorligini yaxshiroq tushunish, Ko'proq ma'lumot olish, Siz cookie-fayllar va boshqalar saytlaridagi xatti-harakatingizni kuzatib boradigan shunga oʻxshash texnologiyalar maʼlumotlaridan reklamani maqsad qilib qoʻyish va boshqa reklama bilan bogʻliq maqsadlarda foydalanishimizni bundan voz kechishingiz mumkin. 
+Cookie-fayllar siyosatida batafsil tavsiflanganidek, biz sizni va qurilmangizni yoqish, oʻchirish va turli xizmatlar va qurilmalarda tanib olish uchun maʼlumotlarni (masalan, qurilma identifikatorlari) toʻplash uchun cookie-fayllar va shunga oʻxshash texnologiyalardan (masalan, piksellar va reklama teglari) foydalanamiz. Siz bizning xizmatlarimiz bilan shug'ullangansiz. Shuningdek, biz cookie-fayllar siyosatida tavsiflanganidek, ba'zi boshqalarga cookie-fayllardan foydalanishga ruxsat beramiz. Agar siz belgilangan davlatlardan tashqarida bo'lsangiz, biz taqdim etishimiz uchun siz xizmatlarimizdan foydalanmagan qurilmangiz haqidagi ma'lumotlarni (masalan, reklama identifikatori, IP manzili, operatsion tizim va brauzer ma'lumotlari) to'playmiz (yoki to'playdigan boshqalarga ishonamiz). Tegishli reklamalar bilan bizning a'zolarimiz va ularning samaradorligini yaxshiroq tushunish, Ko'proq ma'lumot olish, Siz cookie-fayllar va boshqalar saytlaridagi xatti-harakatingizni kuzatib boradigan shunga oʻxshash texnologiyalar maʼlumotlaridan reklamani maqsad qilib qoʻyish va boshqa reklama bilan bogʻliq maqsadlarda foydalanishimizni bundan voz kechishingiz mumkin. 
 
 1.5 Qurilmangiz va joylashuvingiz
 
 
 Biz maʼlumotlarni cookie va shunga oʻxshash texnologiyalar orqali olamiz
-Xizmatlarimizga tashrif buyurganingizda yoki tark etganingizda (jumladan, ba'zi plaginlar va bizning cookie-fayllarimiz yoki boshqalarning saytlaridagi shunga o'xshash texnologiya), biz siz kelgan saytning ham, kirganingizning ham URL manzilini va tashrif buyurgan vaqtingizni olamiz. Shuningdek, biz sizning tarmog'ingiz va qurilmangiz (masalan, IP manzili, proksi-server, operatsion tizim, veb-brauzer va qo'shimchalar, qurilma identifikatori va xususiyatlari, cookie identifikatorlari va/yoki ISP yoki mobil aloqa operatoringiz) haqida ma'lumot olamiz. Agar siz Xizmatlarimizdan mobil qurilmadan foydalansangiz, u qurilma telefoningiz sozlamalari asosida bizga joylashuvingiz haqidagi maʼlumotlarni yuboradi. Joylashuvingizni aniq aniqlash uchun GPS yoki boshqa vositalardan foydalanishimizdan oldin telfoningiz sizdan roziligingizni so’raydi.
+Xizmatlarimizga tashrif buyurganingizda yoki tark etganingizda (jumladan, ba'zi plaginlar va bizning cookie-fayllarimiz yoki boshqalarning saytlaridagi shunga o'xshash texnologiya), biz siz kelgan saytning ham, kirganingizning ham URL manzilini va tashrif buyurgan vaqtingizni olamiz. Shuningdek, biz sizning tarmog'ingiz va qurilmangiz (masalan, IP manzili, proksi-server, operatsion tizim, veb-brauzer va qo'shimchalar, qurilma identifikatori va xususiyatlari, cookie identifikatorlari va/yoki ISP yoki mobil aloqa operatoringiz) haqida ma'lumot olamiz. Agar siz xizmatlarimizdan mobil qurilmadan foydalansangiz, u qurilma telefoningiz sozlamalari asosida bizga joylashuvingiz haqidagi maʼlumotlarni yuboradi. Joylashuvingizni aniq aniqlash uchun GPS yoki boshqa vositalardan foydalanishimizdan oldin telfoningiz sizdan roziligingizni so’raydi.
 
 1.6 Xabarlar
 
 
-Agar siz bizning Xizmatlarimiz orqali muloqot qilsangiz, biz bu haqida bilib turamiz.
-Xizmatlarimiz bilan bog'liq xabarlarni yuborganingizda, qabul qilganingizda yoki ular bilan aloqada bo'lganingizda biz siz haqingizda ma'lumot to'playmiz. Misol uchun, agar siz Sim Yog`ochga ulanish so'rovini olsangiz, biz unga amal qilganingizni kuzatib boramiz va sizga eslatmalar yuboramiz. Shuningdek, biz saytimizni qoʻllab-quvvatlash va himoya qilish uchun xabarlarni avtomatik skanerlash texnologiyasidan foydalanamiz. Masalan, biz ushbu texnologiyadan xabarlarga mumkin bo‘lgan javoblarni taklif qilish hamda Xizmatlarimizdan Foydalanuvchi shartnomasi yoki Professional hamjamiyat siyosatini buzadigan kontentni boshqarish yoki bloklash uchun foydalanamiz.
+Agar siz bizning xizmatlarimiz orqali muloqot qilsangiz, biz bu haqida bilib turamiz.
+Xizmatlarimiz bilan bog'liq xabarlarni yuborganingizda, qabul qilganingizda yoki ular bilan aloqada bo'lganingizda biz siz haqingizda ma'lumot to'playmiz. Misol uchun, agar siz Sim Yog`ochga ulanish so'rovini olsangiz, biz unga amal qilganingizni kuzatib boramiz va sizga eslatmalar yuboramiz. Shuningdek, biz saytimizni qoʻllab-quvvatlash va himoya qilish uchun xabarlarni avtomatik skanerlash texnologiyasidan foydalanamiz. Masalan, biz ushbu texnologiyadan xabarlarga mumkin bo‘lgan javoblarni taklif qilish hamda xizmatlarimizdan foydalanuvchi shartnomasi yoki professional hamjamiyat siyostini buzadigan kontentni boshqarish yoki bloklash uchun foydalanamiz.
 
 1.7 Ish joyi va maktab ma'lumotlari
 
 
-Tashkilotingiz (masalan, ish beruvchi yoki maktab) siz foydalanishingiz uchun premium Xizmatni sotib olganida, ular bizga siz haqingizda maʼlumotlarni taqdim etadi.
-Ish beruvchingiz yoki maktabingiz kabi Xizmatlarimizni sizdan foydalanishingiz uchun sotib olgan boshqalar bizga siz haqingizdagi shaxsiy maʼlumotlarni va oʻz ishchilari, talabalari yoki bitiruvchilari foydalanishi uchun sotib olgan xizmatlardan foydalanish huquqini beradi. Masalan, biz "Kompaniya sahifasi" ma'murlari va ishga olish, sotish yoki o'rganish mahsulotlari kabi premium xizmatlarimiz foydalanuvchilariga ruxsat berish uchun aloqa ma'lumotlarini olamiz.
+Tashkilotingiz (masalan, ish beruvchi yoki maktab) siz foydalanishingiz uchun premium xizmatni sotib olganida, ular bizga siz haqingizda maʼlumotlarni taqdim etadi.
+Ish beruvchingiz yoki maktabingiz kabi xizmatlarimizni sizdan foydalanishingiz uchun sotib olgan boshqalar bizga siz haqingizdagi shaxsiy maʼlumotlarni va oʻz ishchilari, talabalari yoki bitiruvchilari foydalanishi uchun sotib olgan xizmatlardan foydalanish huquqini beradi. Masalan, biz "Kompaniya sahifasi" ma'murlari va ishga olish, sotish yoki o'rganish mahsulotlari kabi premium xizmatlarimiz foydalanuvchilariga ruxsat berish uchun aloqa ma'lumotlarini olamiz.
 
 1.8 Boshqalarning saytlari va xizmatlari
 
@@ -107,11 +107,11 @@ Sim Yog`och ga kirganingizda yoki ba’zi plaginlarimizni (masalan, “Sim Yog`o
 Biz xizmatlarimizni takomillashtirmoqdamiz, ya'ni biz yangi ma'lumotlarni olamiz va ma'lumotlardan foydalanishning yangi usullarini yaratamiz.
 Xizmatlarimiz dinamik va biz tez-tez yangi ma'lumotlarni to'plashni talab qiladigan yangi xususiyatlarni joriy qilamiz. Agar biz sezilarli darajada farq qiladigan shaxsiy maʼlumotlarni toʻplasak yoki maʼlumotlaringizni toʻplash, foydalanish yoki baham koʻrish usulini sezilarli darajada oʻzgartirsak, biz sizni xabardor qilamiz va ushbu Maxfiylik siyosatini ham oʻzgartirishimiz mumkin.
 
- 2.Sizning malumotlaringizdan qanday foydalanishimiz.
+ 2.Sizning ma'lumotlaringizdan qanday foydalanishimiz.
 
 Biz sizning maʼlumotlaringizdan xizmatlarimizni taqdim etish, qoʻllab-quvvatlash, shaxsiylashtirish va rivojlantirish uchun foydalanamiz.
 
-Shaxsiy malumotlaringizdan qanday foydalanishimiz siz qanday xizmaytlardan foydalanayotganingiz va sozlamalar qismida qilgan tanlovingizgizga bog'liq bo'ladi. 
+Shaxsiy ma'lumotlaringizdan qanday foydalanishimiz siz qanday xizmatlardan foydalanayotganingiz va sozlamalar qismida qilgan tanlovingizgizga bog'liq bo'ladi. 
 Biz siz haqingizda mavjud boʻlgan maʼlumotlardan xizmatlarimizni taqdim etish va shaxsiylashtirish uchun, shu jumladan avtomatlashtirilgan tizimlar va xulosalarimiz 
 yordamida xizmatlarimiz (masalan reklamalar) sizga va boshqalarga koʻproq mos va foydali boʻlishi uchun foydalanamiz.
  
@@ -123,7 +123,7 @@ Aloqada bo'lish
 
 Bizning xizmatlarimiz sizga hamkasblar, hamkorlar va mijozlar bilan aloqada bo'lish va yangiliklardan xabardor bo'lish imkonini beradi. 
 Buning uchun siz o'zingiz tanlagan va siz bilan "bog'lanishni" istagan foydalanuvchilar bilan "ulanishingiz" mumkin.
-Siz va ularning sozlamalariga qarab, boshqa aʼzolar bilan bogʻlanganingizda, professional imkoniyatlarni almashish uchun bir-biringizning bog'langan foydalanuvchilaringizni qidirishingiz mumkin boʻladi.
+Siz ularning sozlamalariga qarab, boshqa aʼzolar bilan bogʻlanganingizda, professional imkoniyatlarni almashish uchun bir-biringizning bog'langan foydalanuvchilaringizni qidirishingiz mumkin boʻladi.
 
 Biz siz haqingizdagi maʼlumotlardan (masalan, profilingiz, koʻrgan profillaringiz yoki manzillar kitobini yuklash yoki hamkor integratsiyasi orqali 
 taqdim etilgan maʼlumotlar) boshqalarga profilingizni topishga yordam berish, siz va boshqalar bilan ulanishlarni taklif qilish uchun foydalanamiz 
@@ -149,7 +149,7 @@ faoliyatingiz va boshqa ma'lumotlaringiz, jumladan ismingiz va rasmingizdan foyd
 yangilaganingiz, kontent joylaganingiz, ijtimoiy harakat qilganingiz, funksiyadan foydalanganingiz, yangi ulanishlar o‘rnatganingiz yoki yangiliklarda 
 tilga olinganingiz haqida xabar berishimiz mumkin.
 
-Kartera
+Karyera
 
 Bizning xizmatlarimiz sizga karyera o'rganish, va karyera imkoniyatlarini izlash va topish imkonini beradi. Sizning profilingizni ishga olishni 
 (ish yoki muayyan vazifa uchun) yoki siz tomonidan yollanmoqchi bo'lganlar topishi mumkin. Biz maʼlumotlaringizdan ish tavsiya qilish, sizga va boshqalarga 
@@ -157,7 +157,7 @@ tegishli aloqalarni koʻrsatish uchun foydalanamiz (masalan, kompaniyada, sanoat
 boʻlganlar). Siz ish joyini o'zgartirishdan manfaatdor ekanligingizni bildirishingiz va yollovchilar bilan ma'lumot almashishingiz mumkin. Biz 
 maʼlumotlaringizdan sizga va sizni yollovchilarga ish tavsiya qilish uchun foydalanamiz. Xizmatlarimizni aʼzolarimiz, tashrif buyuruvchilarimiz va 
 mijozlarimizga koʻproq moslashtirishga yordam beradigan kontent va tavsiyalarni taqdim etish uchun avtomatlashtirilgan tizimlardan foydalanishimiz mumkin. 
-Profilingizni toʻgʻri va yangilab turish sizga boshqalar bilan va Xizmatlarimiz orqali imkoniyatlar bilan yaxshiroq bogʻlanishingizga yordam beradi.
+Profilingizni toʻgʻri va yangilab turish sizga boshqalar bilan va xizmatlarimiz orqali imkoniyatlar bilan yaxshiroq bogʻlanishingizga yordam beradi.
 
 Samaradorlik
 
@@ -167,7 +167,7 @@ imkonini beradi. Bizning xizmatlarimiz sizga boshqa a'zolar bilan muloqot qilish
 2.2 Imtiyozli xizmatlar.
 
 Bizning imtiyozli xizmatlarimiz foydalanuvchilarga ish uchun nomzodlar, hamkasblarni qidirish va ular bilan bog‘lanish, iste’dodlarni boshqarish va 
-ijtimoiy media orqali kontentni targ‘ib qilish kabi Xizmatlarimiz orqali a’zolarni qidirish va ular bilan bog‘lanish uchun pul to‘lashga yordam beradi.
+ijtimoiy media orqali kontentni targ‘ib qilish kabi xizmatlarimiz orqali a’zolarni qidirish va ular bilan bog‘lanish uchun pul to‘lashga yordam beradi.
 
 Biz isteʼdod, marketing va savdo yechimlarimiz doirasida mijozlarimiz va obunachilarimizga moslashtirilgan qidiruv funksiyalari va vositalari (jumladan, 
 xabar almashish va faollik haqida ogohlantirishlar) bilan taʼminlaydigan imtiyozli xizmatlarni sotamiz. Mijozlar sizning profilingizdan ism, sarlavha, 
@@ -210,21 +210,18 @@ ismingiz bilan bog'lanadi va boshqalar, jumladan, reklama beruvchi tomonidan ham
 ijtimoiy harakat qilsangiz, bu harakat tegishli reklamalarda qayd etilishi mumkin. Masalan, sizga kompaniya yoqqanida, homiylik qilingan kontent ko'rsatilganda biz 
 sizning ismingiz va fotosuratingizni qo'shishimiz mumkin.
 
-Reklama beruvchilar uchun malumot
+Reklama beruvchilar uchun ma'lumot
 
 Biz sizning shaxsiy maʼlumotlaringizni uchinchi tomon ya'ni reklama beruvchilari yoki reklama tarmoqlari bilan ulashmaymiz, bundan mustasno: 
   - xeshteglangan identifikatorlar yoki qurilma identifikatorlari (ayrim mamlakatlarda ular shaxsiy maʼlumotlar boʻlgan darajada); 
   - sizning alohida ruxsatingiz bilan (masalan, yetakchi ishlab chiqarish shaklida) yoki 
   - xizmatlarning har qanday foydalanuvchilariga ko‘rinadigan ma’lumotlar (masalan, profil). 
 Biroq, agar siz xizmatlarimizdagi yoki oʻchirilgan reklamani koʻrsangiz yoki ustiga bossangiz, reklama beruvchi reklama koʻrsatgan sahifaga kimdir tashrif buyurgani 
-haqida signal oladi va ular cookie fayllari kabi mexanizmlar yordamida aynan siz ekanligingizni aniqlashi mumkin. Reklama bo'yicha hamkorlar reklama beruvchi tomonidan 
-to'g'ridan-to'g'ri sizdan to'plangan shaxsiy ma'lumotlarni bizdan olingan xeshlangan identifikatorlar yoki qurilma identifikatorlari bilan bog'lashi mumkin. Bunday 
-hollarda, biz bunday reklama hamkorlaridan buni qilishdan oldin sizning aniq roziligingizni olishlarini shartnoma asosida talab qilishga harakat qilamiz.
+haqida signal oladi va ular cookie fayllari kabi mexanizmlar yordamida aynan siz ekanligingizni aniqlashi mumkin. Reklama bo'yicha hamkorlar reklama beruvchi tomonidan to'g'ridan-to'g'ri sizdan to'plangan shaxsiy ma'lumotlarni bizdan olingan xeshlangan identifikatorlar yoki qurilma identifikatorlari bilan bog'lashi mumkin. Bunday hollarda, biz bunday reklama hamkorlaridan buni qilishdan oldin sizning aniq roziligingizni olishlarini shartnoma asosida talab qilishga harakat qilamiz.
 
 2.5 Merketing
 
 Biz sizga va boshqalarga o'zimiznig xizmatlarimizni targ'ib qilamiz.
-
 Bizning xizmatlarimizga qo'shimcha qilgan xolda, biz aʼzolik va tarmoq oʻsishi, faollashuv va xizmatlarimizni ragʻbatlantiradigan taklifnomalar va aloqalar uchun 
 aʼzolarning maʼlumotlaridan foydalanamiz, masalan, xizmatlarimizdagi xususiyatdan foydalanganligingizni ulanishlaringizni koʻrsatish orqali.
 
@@ -234,8 +231,7 @@ Biz xizmatlarimizni ishlab chiqamiz va rivojlantiramiz.
 
 Xizmatlarimizning takomillashishi
 
-Sizga va boshqalarga yaxshiroq va moslashtirilgan tajribani taqdim etish, xizmatlarimizga aʼzolik oʻsishi va faolligini oshirish, shuningdek, mutaxassislarni bir-birlari 
-bilan bogʻlashda yordam berish uchun xizmatlarimiz boʻyicha tadqiqot va ishlanmalarni amalga oshirish uchun maʼlumotlardan, jumladan, jamoatchilik fikridan foydalanamiz. 
+Sizga va boshqalarga yaxshiroq va moslashtirilgan tajribani taqdim etish, xizmatlarimizga aʼzolik oʻsishi va faolligini oshirish, shuningdek, mutaxassislarni bir-birlari bilan bogʻlashda yordam berish uchun xizmatlarimiz boʻyicha tadqiqot va ishlanmalarni amalga oshirish uchun maʼlumotlardan, jumladan, jamoatchilik fikridan foydalanamiz. 
 
 Boshqa turdagi qidiruvlar.
 
@@ -252,16 +248,14 @@ ma'lumotlar bo'yicha tanlovingiz bor. Siz so'rovnoma takliflaridan voz kechishin
 
 2.7 Foydalanuvchilarni qo'llab quvvatlash.
 
-Biz malumotlardan muammolarni hal qilishda va sizga yozdam berishda foydalanamiz.
+Biz ma'lumotlardan muammolarni hal qilishda va sizga yordam berishda foydalanamiz.
 
-Biz maʼlumotlardan (muloqotlaringizni ham oʻz ichiga olishi mumkin) shikoyatlarni tekshirish, ularga javob berish va hal qilish hamda xizmat muammolari (masalan, xatolar) 
-uchun foydalanamiz.
+Biz maʼlumotlardan (muloqotlaringizni ham oʻz ichiga olishi mumkin) shikoyatlarni tekshirish, ularga javob berish va hal qilish hamda xizmat muammolari (masalan, xatolar) uchun foydalanamiz.
 
 2.8 Xavfsizlik.
 
 Biz maʼlumotlardan xavfsizlik, firibgarlikning oldini olish va tergov uchun foydalanamiz.
-Biz sizning ma'lumotlaringizdan (jumladan, sizning aloqalaringizdan) xavfsizlik maqsadlarida yoki mumkin bo'lgan firibgarlik yoki foydalanuvchi shartnomamizning boshqa 
-buzilishlarini va/yoki a'zolarimizga, mehmonlarimizga yoki boshqalarga zarar yetkazishga urinishlarning oldini olish yoki tekshirish uchun foydalanamiz.
+Biz sizning ma'lumotlaringizdan (jumladan, sizning aloqalaringizdan) xavfsizlik maqsadlarida yoki mumkin bo'lgan firibgarlik yoki foydalanuvchi shartnomamizning boshqa buzilishlarini va/yoki a'zolarimizga, mehmonlarimizga yoki boshqalarga zarar yetkazishga urinishlarning oldini olish yoki tekshirish uchun foydalanamiz.
 
 3. Ma'lumotni qanday baham ko'ramiz
 
@@ -271,7 +265,7 @@ Siz o'z profilingizga qo'shadigan har qanday ma'lumotlar va siz joylashtirgan ko
 
 Profil
 
-Sizning profilingiz xizmatlarimizning barcha a'zolari va mijozlariga to'liq ko'rinadi. Sozlamalaringizdan kelib chiqqan holda, u bizning Xizmatlarimizdagi yoki undan tashqaridagi boshqalarga ham ko‘rinishi mumkin (masalan, Xizmatlarimizga tashrif buyuruvchilar yoki uchinchi tomon qidiruv tizimlari foydalanuvchilari). Qonun qoidalarimizda batafsil tavsiflanganidek, sozlamalaringiz, ko‘rayotgan a’zo bilan aloqa darajasi, ularda bo‘lishi mumkin bo‘lgan obunalar, ularning Xizmatlarimizdan foydalanishi, kirish kanallari va qidiruv turlari (masalan, ism yoki kalit so‘z bo‘yicha) profilingiz mavjudligiga va ular sizning profilingizdagi ba'zi maydonlarni ko'ra oladimi yoki yo'qmi ta’sir qiladi.
+Sizning profilingiz xizmatlarimizning barcha a'zolari va mijozlariga to'liq ko'rinadi. Sozlamalaringizdan kelib chiqqan holda, u bizning xizmatlarimizdagi yoki undan tashqaridagi boshqalarga ham ko‘rinishi mumkin (masalan, xizmatlarimizga tashrif buyuruvchilar yoki uchinchi tomon qidiruv tizimlari foydalanuvchilari). Qonun qoidalarimizda batafsil tavsiflanganidek, sozlamalaringiz, ko‘rayotgan a’zo bilan aloqa darajasi, ularda bo‘lishi mumkin bo‘lgan obunalar, ularning xizmatlarimizdan foydalanishi, kirish kanallari va qidiruv turlari (masalan, ism yoki kalit so‘z bo‘yicha) profilingiz mavjudligiga va ular sizning profilingizdagi ba'zi maydonlarni ko'ra oladimi yoki yo'qmi ta’sir qiladi.
 
 Xabarlar, yoqtirishlar, kuzatishlar, izohlar, xabarlar, shikoyatlar
 
@@ -287,29 +281,29 @@ Birovning kontentini (jumladan, reklamalarni) yoqtirganingizda yoki qayta baham 
 
 Korxona hisoblari
 
-Ish beruvchingiz sizga Recruiter, Sales Navigator, Ssim Yog’och Learning yoki reklama kampaniyasi menejeri kabi korporativ xizmatlarimizga kirishni taklif qilishi mumkin. Sizning ish beruvchingiz bunday korporativ xizmatlardan foydalanishingizni ko'rib chiqishi va boshqarishi mumkin.
+Ish beruvchingiz sizga Recruiter, Sales Navigator, Sim Yog’och Learning yoki reklama kampaniyasi menejeri kabi korporativ xizmatlarimizga kirishni taklif qilishi mumkin. Sizning ish beruvchingiz bunday korporativ xizmatlardan foydalanishingizni ko'rib chiqishi va boshqarishi mumkin.
 
-Korxona xizmatiga qarab, siz bunday Xizmatdan foydalanishdan oldin, biz sizning profilingizdagi tegishli maʼlumotlarni ish beruvchingiz bilan boʻlishish yoki korporativ boʻlmagan Xizmatlarimizdan foydalanish uchun ruxsat soʻraymiz. Misol uchun, Sales Navigator foydalanuvchilaridan o'zlarining "ijtimoiy sotuvlar indeksi" ni baham ko'rishlari so'raladi, bu ball qisman ularning shaxsiy hisobidagi faoliyati asosida hisoblanadi. Ish qidirish va shaxsiy xabarlar kabi ayrim faoliyatlar nozik ekanligini tushunamiz va shuning uchun siz ularni Xizmatlarimiz orqali baham ko'rmaguningizcha (masalan, xuddi shu kompaniyada yangi lavozimga ariza berish orqali) ish beruvchingiz bilan baham ko'rmaymiz. yoki Xizmatlarimiz orqali hamkasbingizga xabarda ish qidirishingizni eslatib o'ting).
+Korxona xizmatiga qarab, siz bunday xizmatdan foydalanishdan oldin, biz sizning profilingizdagi tegishli maʼlumotlarni ish beruvchingiz bilan boʻlishish yoki korporativ boʻlmagan xizmatlarimizdan foydalanish uchun ruxsat soʻraymiz. Misol uchun, Sales Navigator foydalanuvchilaridan o'zlarining "ijtimoiy sotuvlar indeksi" ni baham ko'rishlari so'raladi, bu ball qisman ularning shaxsiy hisobidagi faoliyati asosida hisoblanadi. Ish qidirish va shaxsiy xabarlar kabi ayrim faoliyatlar nozik ekanligini tushunamiz va shuning uchun siz ularni xizmatlarimiz orqali baham ko'rmaguningizcha (masalan, xuddi shu kompaniyada yangi lavozimga ariza berish orqali) ish beruvchingiz bilan baham ko'rmaymiz. yoki xizmatlarimiz orqali hamkasbingizga xabarda ish qidirishingizni eslatib o'ting).
 
 Sozlamalaringizdan kelib chiqqan holda, ish joyidagi vositalar va xizmatlardan (masalan, xodimlarning interaktiv maʼlumotnomalari vositalaridan) foydalanganingizda, maʼlumotlaringizning ayrimlari ham ish beruvchingizga taqdim etilishi yoki ushbu vositalar va xizmatlarni yoqish uchun ish beruvchingizdan oladigan maʼlumotlarga ulanishi mumkin.
 
 3.2 Aloqa arxivi
 
-Tartibga soladigan a'zolar aloqalarni Xizmatimizdan tashqarida saqlashlari kerak bo'lishi mumkin.
+Tartibga soladigan a'zolar aloqalarni xizmatimizdan tashqarida saqlashlari kerak bo'lishi mumkin.
 
-Ba'zi a'zolar (yoki ularning ish beruvchilari) qonuniy yoki professional muvofiqlik uchun o'zlarining aloqalari va ijtimoiy media faoliyatini arxivlashlari kerak va bu arxiv xizmatlarini taqdim etish uchun boshqalarning xizmatlaridan foydalanadilar. Biz Xizmatlarimizdan tashqarida o'sha a'zolar tomonidan va ularga yuborilgan xabarlarni arxivlash imkonini beramiz. Masalan, moliyaviy maslahatchi o'zining professional moliyaviy maslahatchisi litsenziyasini saqlab qolish uchun bizning Xizmatlarimiz orqali mijozlari bilan aloqalarni arxivlashi kerak.
+Ba'zi a'zolar (yoki ularning ish beruvchilari) qonuniy yoki professional muvofiqlik uchun o'zlarining aloqalari va ijtimoiy media faoliyatini arxivlashlari kerak va bu arxiv xizmatlarini taqdim etish uchun boshqalarning xizmatlaridan foydalanadilar. Biz xizmatlarimizdan tashqarida o'sha a'zolar tomonidan va ularga yuborilgan xabarlarni arxivlash imkonini beramiz. Masalan, moliyaviy maslahatchi o'zining professional moliyaviy maslahatchisi litsenziyasini saqlab qolish uchun bizning xizmatlarimiz orqali mijozlari bilan aloqalarni arxivlashi kerak.
 
 3.3 Boshqalarning xizmatlari
 
 Siz o'z hisobingizni boshqalarning xizmatlari bilan bog'lashingiz mumkin, shunda ular sizning kontaktlaringiz profillarini qidira oladilar, bunday platformalarda o'z aktsiyalaringizni joylashadilar yoki bunday platformalarda ulanishlaringiz bilan suhbatni boshlashingiz mumkin. Sizning profilingizdan parchalar boshqalarning xizmatlarida ham paydo bo'ladi.
 
-Sozlamalaringizga qarab, boshqa xizmatlar profilingizni qidirishi mumkin. Hisobingizni boshqa xizmatlar bilan bog'lashni tanlaganingizda, shaxsiy ma'lumotlar ularga ochiq bo'ladi. Hisoblarni ulashni tanlaganingizda, ushbu shaxsiy ma'lumotlarni almashish va ulardan foydalanish rozilik ekranida tasvirlanadi yoki u bilan bog'lanadi. Misol uchun, siz Twitter yoki WeChat hisob qaydnomangizni Xizmatlarimiz tarkibini ushbu boshqa xizmatlarga baham ko'rish uchun bog'lashingiz mumkin yoki elektron pochta provayderingiz sizga LinkedIn kontaktlaringizni o'z xizmatiga yuklash imkoniyatini berishi mumkin. Uchinchi tomon xizmatlarining shaxsiy maxfiylik siyosati bor va siz ularga maʼlumotlaringizdan biz istamagan tarzda foydalanishga ruxsat berayotgan boʻlishingiz mumkin. Siz bunday hisoblar bilan havolani bekor qilishingiz mumkin.
+Sozlamalaringizga qarab, boshqa xizmatlar profilingizni qidirishi mumkin. Hisobingizni boshqa xizmatlar bilan bog'lashni tanlaganingizda, shaxsiy ma'lumotlar ularga ochiq bo'ladi. Hisoblarni ulashni tanlaganingizda, ushbu shaxsiy ma'lumotlarni almashish va ulardan foydalanish rozilik ekranida tasvirlanadi yoki u bilan bog'lanadi. Misol uchun, siz Twitter yoki WeChat hisob qaydnomangizni xizmatlarimiz tarkibini ushbu boshqa xizmatlarga baham ko'rish uchun bog'lashingiz mumkin yoki elektron pochta provayderingiz sizga LinkedIn kontaktlaringizni o'z xizmatiga yuklash imkoniyatini berishi mumkin. Uchinchi tomon xizmatlarining shaxsiy maxfiylik siyosati bor va siz ularga maʼlumotlaringizdan biz istamagan tarzda foydalanishga ruxsat berayotgan boʻlishingiz mumkin. Siz bunday hisoblar bilan havolani bekor qilishingiz mumkin.
 
 Sozlamalaringizni hisobga olgan holda, profilingizdan parchalar boshqalarning xizmatlarida (masalan, qidiruv tizimi natijalari, pochta va taqvim ilovalari, ular uchrashayotgan yoki xabar almashayotgan shaxsning cheklangan profil maʼlumotlarini koʻrsatadigan foydalanuvchi, ijtimoiy media yigʻuvchilar, isteʼdod va yetakchi) paydo boʻladi. menejerlar). "Eski" profil ma'lumotlari
 
 3.4 Tegishli xizmatlar
 
-Biz maʼlumotlaringizni turli xil Xizmatlarimiz va LinkedIn bilan bogʻliq boʻlgan obʼyektlarimiz boʻylab baham koʻramiz.
+Biz maʼlumotlaringizni turli xil xizmatlarimiz va LinkedIn bilan bogʻliq boʻlgan obʼyektlarimiz boʻylab baham koʻramiz.
 
 Xizmatlarimizni taqdim etish va rivojlantirish uchun biz sizning shaxsiy ma'lumotlaringizni filiallarimiz bilan baham ko'ramiz. Xizmatlarimiz sizga va boshqalarga koʻproq mos va foydali boʻlishiga yordam berish uchun biz ushbu Maxfiylik siyosati qamrab olgan turli xizmatlar boʻyicha maʼlumotlarni ichki maʼlumotlarni birlashtirishimiz mumkin. Masalan, taʼlim yoki ish boʻyicha tavsiyalaringizni oʻrganish tarixingiz asosida shaxsiylashtirishimiz mumkin.
 
@@ -323,11 +317,10 @@ Biz xizmatlarimizni taqdim etishda yordam berish uchun boshqalardan foydalanamiz
 
 Biz maʼlumotlaringizni qonun tomonidan talab qilingan deb hisoblaganimizda yoki sizning, bizning yoki boshqalarning huquqlari va xavfsizligini himoya qilish uchun baham koʻrishimiz kerak boʻlishi mumkin.
 
-Qonun, chaqiruv qogʻozi yoki boshqa huquqiy jarayon talab qilganda yoki (1) shubhali yoki haqiqiy maʼlumotlarni tekshirish, oldini olish yoki chora koʻrish uchun maʼlumotni oshkor qilish zarurligiga vijdonan ishonganimizda, siz haqingizda maʼlumotni oshkor qilishimiz kerak boʻlishi mumkin. noqonuniy faoliyat yoki davlat ijroiya organlariga yordam berish; (2) siz bilan tuzilgan shartnomalarimizni bajarish; (3) har qanday uchinchi tomon da'volari yoki da'volariga qarshi o'zimizni tekshirish va himoya qilish; (4) Xizmatlarimiz xavfsizligi yoki yaxlitligini himoya qilish (masalan, shu kabi tahdidlarga duch kelgan kompaniyalar bilan bo'lishish orqali); yoki (5) LinkedIn, a'zolarimiz, xodimlarimiz yoki boshqalarning huquqlari va xavfsizligini amalga oshirish yoki himoya qilish. Agar qonun yoki sud qarori bilan taqiqlanmagan bo'lsa yoki so'rov favqulodda vaziyatda bo'lmasa, biz a'zolarni shaxsiy ma'lumotlariga nisbatan qonuniy talablar to'g'risida qarorimizga muvofiq xabardor qilishga harakat qilamiz. Biz o'z ixtiyorimizga ko'ra, so'rovlar haddan tashqari ko'p, noaniq yoki tegishli vakolatga ega emas deb hisoblasak, bunday talablarga e'tiroz bildirishimiz mumkin, lekin biz har bir talabga e'tiroz bildirishga va'da bermaymiz. Batafsil maʼlumot olish uchun maʼlumotlarni soʻrash boʻyicha koʻrsatmalar va shaffoflik hisobotiga qarang.
+Qonun, chaqiruv qogʻozi yoki boshqa huquqiy jarayon talab qilganda yoki (1) shubhali yoki haqiqiy maʼlumotlarni tekshirish, oldini olish yoki chora koʻrish uchun maʼlumotni oshkor qilish zarurligiga vijdonan ishonganimizda, siz haqingizda maʼlumotni oshkor qilishimiz kerak boʻlishi mumkin. Noqonuniy faoliyat yoki davlat ijroiya organlariga yordam berish; (2) siz bilan tuzilgan shartnomalarimizni bajarish; (3) har qanday uchinchi tomon da'volari yoki da'volariga qarshi o'zimizni tekshirish va himoya qilish; (4) Xizmatlarimiz xavfsizligi yoki yaxlitligini himoya qilish (masalan, shu kabi tahdidlarga duch kelgan kompaniyalar bilan bo'lishish orqali); yoki (5) LinkedIn, a'zolarimiz, xodimlarimiz yoki boshqalarning huquqlari va xavfsizligini amalga oshirish yoki himoya qilish. Agar qonun yoki sud qarori bilan taqiqlanmagan bo'lsa yoki so'rov favqulodda vaziyatda bo'lmasa, biz a'zolarni shaxsiy ma'lumotlariga nisbatan qonuniy talablar to'g'risida qarorimizga muvofiq xabardor qilishga harakat qilamiz. Biz o'z ixtiyorimizga ko'ra, so'rovlar haddan tashqari ko'p, noaniq yoki tegishli vakolatga ega emas deb hisoblasak, bunday talablarga e'tiroz bildirishimiz mumkin, lekin biz har bir talabga e'tiroz bildirishga va'da bermaymiz. Batafsil maʼlumot olish uchun maʼlumotlarni soʻrash boʻyicha koʻrsatmalar va shaffoflik hisobotiga qarang.
 
 3.7 Nazorat yoki sotishning o'zgarishi
 Biznesimiz boshqalarga sotilganda maʼlumotlaringizni baham koʻrishimiz mumkin, biroq ular ushbu Maxfiylik siyosatiga muvofiq foydalanishda davom etishi kerak.
-
 Shuningdek, biz sizning shaxsiy ma'lumotlaringizni sotish, qo'shilish yoki nazoratni o'zgartirish yoki ushbu hodisalarning har qandayiga tayyorgarlik sifatida baham ko'rishimiz mumkin. Bizni yoki biznesimizning bir qismini sotib olgan har qanday boshqa tashkilot sizning ma'lumotlaringizdan foydalanishni davom ettirish huquqiga ega bo'ladi, lekin siz boshqacha rozi bo'lmasangiz, faqat ushbu Maxfiylik siyosatida belgilangan tartibda.
 
 4. Sizning tanlovingiz va majburiyatlaringiz
@@ -335,7 +328,7 @@ Shuningdek, biz sizning shaxsiy ma'lumotlaringizni sotish, qo'shilish yoki nazor
 4.1 Ma'lumotlarni saqlash
 Shaxsiy ma'lumotlaringizning ko'p qismini hisobingiz ochiq bo'lgunga qadar saqlaymiz.
 
-Biz odatda shaxsiy maʼlumotlaringizni hisobingizni ochiq tutganingizda yoki sizga Xizmatlarni taqdim etish uchun kerak boʻlganda saqlaymiz. Bunga siz yoki boshqalar bizga taqdim etgan maʼlumotlar hamda Xizmatlarimizdan foydalanishingiz natijasida yaratilgan yoki xulosa qilingan maʼlumotlar kiradi. Agar siz bizning Xizmatlarimizdan faqat bir necha yilda bir marta yangi ish qidirayotganingizda foydalansangiz ham, hisobingizni yopmaguningizcha, biz sizning ma'lumotlaringizni saqlab qolamiz va profilingizni ochiq holda ushlab turamiz. Ba'zi hollarda biz ma'lum ma'lumotlarni (masalan, Xizmatlardan foydalanish haqidagi tushunchalar) shaxsiylashtirilgan yoki umumlashtirilgan shaklda saqlashni tanlaymiz.
+Biz odatda shaxsiy maʼlumotlaringizni hisobingizni ochiq tutganingizda yoki sizga xizmatlarni taqdim etish uchun kerak boʻlganda saqlaymiz. Bunga siz yoki boshqalar bizga taqdim etgan maʼlumotlar hamda xizmatlarimizdan foydalanishingiz natijasida yaratilgan yoki xulosa qilingan maʼlumotlar kiradi. Agar siz bizning xizmatlarimizdan faqat bir necha yilda bir marta yangi ish qidirayotganingizda foydalansangiz ham, hisobingizni yopmaguningizcha, biz sizning ma'lumotlaringizni saqlab qolamiz va profilingizni ochiq holda ushlab turamiz. Ba'zi hollarda biz ma'lum ma'lumotlarni (masalan, xizmatlardan foydalanish haqidagi tushunchalar) shaxsiylashtirilgan yoki umumlashtirilgan shaklda saqlashni tanlaymiz.
 
 4.2 Shaxsiy ma'lumotlaringizga kirish va nazorat qilish huquqlari
 
@@ -347,7 +340,7 @@ Siz haqingizda mavjud bo'lgan shaxsiy ma'lumotlarni siz qila oladigan narsalar:
 
 Ma'lumotlarni o'chirish: Siz bizdan shaxsiy ma'lumotlaringizning barchasini yoki bir qismini o'chirish yoki o'chirishni so'rashingiz mumkin (masalan, agar sizga Xizmatlarni taqdim etish endi zarur bo'lmasa).
 Maʼlumotlarni oʻzgartirish yoki toʻgʻrilash: Shaxsiy maʼlumotlaringizning bir qismini hisob qaydnomangiz orqali tahrirlashingiz mumkin. Shuningdek, ayrim hollarda, ayniqsa, notoʻgʻri boʻlsa, maʼlumotlaringizni oʻzgartirish, yangilash yoki tuzatishimizni soʻrashingiz mumkin.
-Ma'lumotlardan foydalanishga e'tiroz bildirish yoki cheklash yoki cheklash: Siz bizdan shaxsiy ma'lumotlaringizning barchasidan yoki bir qismidan foydalanishni to'xtatishimizni (masalan, undan foydalanishni davom ettirishga qonuniy huquqimiz bo'lmasa) yoki ulardan foydalanishimizni cheklashni so'rashingiz mumkin (masalan, agar sizning shaxsiy ma'lumotlaringiz noto'g'ri yoki noqonuniy saqlangan bo'lsa).
+Ma'lumotlardan foydalanishga e'tiroz bildirish yoki cheklash : Siz bizdan shaxsiy ma'lumotlaringizning barchasidan yoki bir qismidan foydalanishni to'xtatishimizni (masalan, undan foydalanishni davom ettirishga qonuniy huquqimiz bo'lmasa) yoki ulardan foydalanishimizni cheklashni so'rashingiz mumkin (masalan, agar sizning shaxsiy ma'lumotlaringiz noto'g'ri yoki noqonuniy saqlangan bo'lsa).
 Ma'lumotlaringizga kirish va/yoki olish huquqi: Siz bizdan shaxsiy ma'lumotlaringizning nusxasini so'rashingiz mumkin va siz taqdim etgan shaxsiy ma'lumotlar nusxasini mashinada o'qilishi mumkin bo'lgan shaklda so'rashingiz mumkin.
 Tashrif buyuruvchilar bu so'rovlarni qanday qilish haqida ko'proq bilib olishlari mumkin. Quyidagi aloqa maʼlumotlari orqali ham biz bilan bogʻlanishingiz mumkin va biz sizning soʻrovingizni amaldagi qonunlarga muvofiq koʻrib chiqamiz.
 
@@ -356,7 +349,7 @@ Belgilangan mamlakatlarda va boshqa mintaqalarda yashovchilar o'z qonunlariga mu
 4.3 Hisobni yopish
 Hisobingizni yopganingizdan keyin ham maʼlumotlaringizning bir qismini saqlaymiz.
 
-Agar siz Sim Yog’och hisobingizni yopishni tanlasangiz, shaxsiy maʼlumotlaringiz odatda 24 soat ichida Xizmatlarimizdagi boshqalarga koʻrinmaydi. Biz odatda yopiq hisob ma’lumotlarini hisob yopilgandan keyin 30 kun ichida o‘chirib tashlaymiz, quyida qayd etilgan hollar bundan mustasno.
+Agar siz Sim Yog’och hisobingizni yopishni tanlasangiz, shaxsiy maʼlumotlaringiz odatda 24 soat ichida xizmatlarimizdagi boshqalarga koʻrinmaydi. Biz odatda yopiq hisob ma’lumotlarini hisob yopilgandan keyin 30 kun ichida o‘chirib tashlaymiz, quyida qayd etilgan hollar bundan mustasno.
 
 Qonuniy majburiyatlarimizni (jumladan, huquqni muhofaza qilish organlarining soʻrovlarini) bajarish, tartibga solish talablariga javob berish, nizolarni hal qilish, xavfsizlikni taʼminlash, firibgarlik va suiisteʼmollikning oldini olish uchun asosli zarur boʻlsa, hisobingizni yopganingizdan keyin ham shaxsiy maʼlumotlaringizni saqlab qolamiz (masalan, agar biz sizning hisobingizni cheklagan boʻlsak). Bizning professional hamjamiyat siyosatlarimizni buzganlik uchun hisob qaydnomasi), Foydalanuvchi shartnomamizni bajarish yoki bizdan keladigan boshqa xabarlarga "obunani bekor qilish" so'rovingizni bajarish. Hisobingiz yopilgandan keyin shaxsiylashtirilmagan maʼlumotlarni saqlab qolamiz.
 
@@ -366,7 +359,7 @@ Boshqalar bilan baham koʻrgan maʼlumotlaringiz (masalan, InMail, yangilanishla
 
 5.1. Xavfsizlik
 
-Biz xavfsizlik buzilishlarini kuzatamiz va oldini olishga harakat qilamiz. Iltimos, Xizmatlarimiz orqali mavjud xavfsizlik xususiyatlaridan foydalaning.
+Biz xavfsizlik buzilishlarini kuzatamiz va oldini olishga harakat qilamiz. Iltimos, xizmatlarimiz orqali mavjud xavfsizlik xususiyatlaridan foydalaning.
 
 Biz HTTPS kabi maʼlumotlaringizni himoya qilish uchun moʻljallangan xavfsizlik choralarini qoʻllaymiz. Biz tizimlarimizni mumkin bo'lgan zaifliklar va hujumlar uchun muntazam ravishda kuzatib boramiz. Biroq, siz bizga yuborgan har qanday ma'lumot xavfsizligiga kafolat bera olmaymiz. Ma'lumotlarga kirish, oshkor qilish, o'zgartirish yoki yo'q qilish jismoniy, texnik yoki boshqaruv kafolatlarimizni buzmasligiga kafolat yo'q. Xizmatlarimizdan xavfsiz foydalanish, jumladan, ikki faktorli autentifikatsiya haqida qoʻshimcha maʼlumot olish uchun Xavfsizlik markazimizga tashrif buyuring.
 
@@ -390,4 +383,4 @@ Biz hozirda sizning ruxsatingizsiz to'g'ridan-to'g'ri marketing maqsadlarida sha
 5.5. Bog'lanish uchun ma'lumot
 Shikoyatlarni hal qilish uchun biz bilan bog'lanishingiz yoki boshqa variantlardan foydalanishingiz mumkin.
 
-Agar sizda ushbu Siyosat yuzasidan savollaringiz yoki shikoyatlaringiz bo'lsa, avval Sim Yog’och bilan onlayn bog'laning. Siz bizga jismoniy pochta orqali ham murojaat qilishingiz mumkin. Agar biz bilan bog'lanish shikoyatingizni hal qilmasa, sizda ko'proq imkoniyatlar mavjud. Belgilangan mamlakatlar va boshqa hududlardagi rezidentlar ham bu yerda maʼlumotlarni himoya qilish boʻyicha mutaxassisimizga murojaat qilish huquqiga ega boʻlishi mumkin. Agar bu sizning shikoyatingizni hal qilmasa, Belgilangan mamlakatlar va boshqa hududlardagi rezidentlar oʻz qonunlariga koʻra koʻproq imkoniyatlarga ega boʻlishi mumkin.
+Agar sizda ushbu Siyosat yuzasidan savollaringiz yoki shikoyatlaringiz bo'lsa, avval Sim Yog’och bilan onlayn bog'laning. Siz bizga jismoniy pochta orqali ham murojaat qilishingiz mumkin. Agar biz bilan bog'lanish shikoyatingizni hal qilmasa, sizda ko'proq imkoniyatlar mavjud. Belgilangan mamlakatlar va boshqa hududlardagi rezidentlar ham bu yerda maʼlumotlarni himoya qilish boʻyicha mutaxassisimizga murojaat qilish huquqiga ega boʻlishi mumkin. Agar bu sizning shikoyatingizni hal qilmasa, belgilangan mamlakatlar va boshqa hududlardagi rezidentlar oʻz qonunlariga koʻra koʻproq imkoniyatlarga ega boʻlishi mumkin.
