@@ -391,3 +391,4 @@ Biz hozirda sizning ruxsatingizsiz to'g'ridan-to'g'ri marketing maqsadlarida sha
 Shikoyatlarni hal qilish uchun biz bilan bog'lanishingiz yoki boshqa variantlardan foydalanishingiz mumkin.
 
 Agar sizda ushbu Siyosat yuzasidan savollaringiz yoki shikoyatlaringiz bo'lsa, avval Sim Yog’och bilan onlayn bog'laning. Siz bizga jismoniy pochta orqali ham murojaat qilishingiz mumkin. Agar biz bilan bog'lanish shikoyatingizni hal qilmasa, sizda ko'proq imkoniyatlar mavjud. Belgilangan mamlakatlar va boshqa hududlardagi rezidentlar ham bu yerda maʼlumotlarni himoya qilish boʻyicha mutaxassisimizga murojaat qilish huquqiga ega boʻlishi mumkin. Agar bu sizning shikoyatingizni hal qilmasa, Belgilangan mamlakatlar va boshqa hududlardagi rezidentlar oʻz qonunlariga koʻra koʻproq imkoniyatlarga ega boʻlishi mumkin.
+Sarvarjon
