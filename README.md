@@ -287,6 +287,7 @@ Birovning kontentini (jumladan, reklamalarni) yoqtirganingizda yoki qayta baham 
 
 Korxona hisoblari
 
+
 Ish beruvchingiz sizga Recruiter, Sales Navigator, Ssim Yog’och Learning yoki reklama kampaniyasi menejeri kabi korporativ xizmatlarimizga kirishni taklif qilishi mumkin. Sizning ish beruvchingiz bunday korporativ xizmatlardan foydalanishingizni ko'rib chiqishi va boshqarishi mumkin.
 
 Korxona xizmatiga qarab, siz bunday Xizmatdan foydalanishdan oldin, biz sizning profilingizdagi tegishli maʼlumotlarni ish beruvchingiz bilan boʻlishish yoki korporativ boʻlmagan Xizmatlarimizdan foydalanish uchun ruxsat soʻraymiz. Misol uchun, Sales Navigator foydalanuvchilaridan o'zlarining "ijtimoiy sotuvlar indeksi" ni baham ko'rishlari so'raladi, bu ball qisman ularning shaxsiy hisobidagi faoliyati asosida hisoblanadi. Ish qidirish va shaxsiy xabarlar kabi ayrim faoliyatlar nozik ekanligini tushunamiz va shuning uchun siz ularni Xizmatlarimiz orqali baham ko'rmaguningizcha (masalan, xuddi shu kompaniyada yangi lavozimga ariza berish orqali) ish beruvchingiz bilan baham ko'rmaymiz. yoki Xizmatlarimiz orqali hamkasbingizga xabarda ish qidirishingizni eslatib o'ting).
